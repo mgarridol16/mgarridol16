@@ -7,7 +7,7 @@
 - 📫 Puedes contactarme en: **garridoleonmiguel2003@gmail.com**.
 
 ## Tecnologías y Lenguajes
-- 💻 **Lenguajes**: HTML, CSS, JavaScript, Java.
+- 💻 **Lenguajes**: HTML, CSS, JavaScript, Java, SQL.
 - 🛠️ **Frameworks/Librerías**: React.
 - 🔧 **Herramientas**: Git, GitHub, Visual Studio Code.
 
@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -41,4 +42,4 @@
 ### Índice TIOBE (Popularidad de Lenguajes de Programación)
 - 🔗 [Ver el índice TIOBE actual](https://www.tiobe.com/tiobe-index/)
 - 🖼️ **Imagen del índice TIOBE** (actualizada manualmente):
-![Índice TIOBE](https://i.imgur.com/6RTKGDW.png)
+![Índice TIOBE](https://i.imgur.com/tEphx3j.png)
