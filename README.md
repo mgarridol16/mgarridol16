@@ -41,5 +41,6 @@
 
 ### Índice TIOBE (Popularidad de Lenguajes de Programación)
 - 🔗 [Ver el índice TIOBE actual](https://www.tiobe.com/tiobe-index/)
-- 🖼️ **Imagen del índice TIOBE** (actualizada manualmente):
+- 🖼️ **Imagen del índice TIOBE**
+- Aqui se ven los lenguajes que estoy aprendiendo donde se encuentran en el indice de TIOBE
 ![Índice TIOBE](https://i.imgur.com/tEphx3j.png)
