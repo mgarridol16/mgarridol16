@@ -42,3 +42,13 @@
 - 🔗 [Ver el índice TIOBE actual](https://www.tiobe.com/tiobe-index/)
 - 🖼️ **Imagen del índice TIOBE** (actualizada manualmente):
   ![Índice TIOBE](https://www.tiobe.com/wp-content/uploads/2023/10/TIOBE-Index-Oct-2023.png)
+
+  ### Popularidad de Lenguajes (Alternativa Visual)
+Aunque no es el índice TIOBE, aquí tienes una representación visual de los lenguajes que estás aprendiendo:
+
+```markdown
+![HTML](https://img.shields.io/badge/HTML-Expert-%23E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-%231572B6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-%23F7DF1E?style=flat-square)
+![Java](https://img.shields.io/badge/Java-Beginner-%23ED8B00?style=flat-square)
+![React](https://img.shields.io/badge/React-Learning-%2361DAFB?style=flat-square)
