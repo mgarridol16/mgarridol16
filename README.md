@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hola, soy Miguel Garrido 👋
 
-<!--
-**mgarridol16/mgarridol16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en el **IES Gregorio Prieto**.
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, Java y React**.
+- 💻 Me apasiona el desarrollo de software, especialmente aplicaciones de escritorio y móviles.
+- 📫 Puedes contactarme en: **garridoleonmiguel2003@gmail.com**.
 
-Here are some ideas to get you started:
+## Tecnologías y Lenguajes
+- 💻 **Lenguajes**: HTML, CSS, JavaScript, Java.
+- 🛠️ **Frameworks/Librerías**: React.
+- 🔧 **Herramientas**: Git, GitHub, Visual Studio Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- 🚀 Aún no tengo proyectos públicos, ¡pero estoy trabajando en ello! Pronto habrá novedades.
+
+## Badges
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mgarridol16&show_icons=true&theme=dark)
+
+## Contacto
+- 🔗 LinkedIn: [linkedin/miguelGarrido](https://www.linkedin.com/in/miguelGarrido)
+- 📧 Correo electrónico: **garridoleonmiguel2003@gmail.com**
+- 📞 Teléfono: **674009824**
+
+## Elementos Avanzados
+### Gráfico de Lenguajes Más Usados
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mgarridol16E&layout=compact&theme=dark)
+
+### Actividad Reciente en GitHub
+![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=mgarridol16&theme=github-dark)
