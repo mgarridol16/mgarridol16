@@ -32,8 +32,10 @@
 - 📞 Teléfono: **674009824**
 
 ## Elementos Avanzados
-### Gráfico de Lenguajes Más Usados
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mgarridol16E&layout=compact&theme=dark)
+### Índice TIOBE (Popularidad de Lenguajes de Programación)
+- 🔗 [Ver el índice TIOBE actual](https://www.tiobe.com/tiobe-index/)
+- 🖼️ **Imagen del índice TIOBE** (actualizada manualmente):
+  ![Índice TIOBE](https://www.tiobe.com/wp-content/uploads/2023/10/TIOBE-Index-Oct-2023.png)
 
 ### Actividad Reciente en GitHub
 ![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=mgarridol16&theme=github-dark)
